@@ -7,3 +7,4 @@
 5. Espera a que pasen CI, CodeQL y Dependency Review.
 6. Resuelve comentarios y vuelve a hacer push si es necesario.
 7. Haz merge solo cuando las reglas del repositorio lo permitan.
+8. hola prueba xdd
